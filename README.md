@@ -1,6 +1,10 @@
 # Toggle Button Example: Light and Dark Mode
 This project demonstrates a simple implementation of a toggle button to switch between light and dark mode using HTML, CSS, and JavaScript. The toggle button changes the background color of a container and adds an animation effect.
 
+## Demo
+
+See the animation in action [here](https://youtube.com/shorts/kspV39Wn2g4).
+
 # Features
 **Light and Dark Mode:** Toggle between light (day) and dark (night) modes seamlessly.
 **Smooth Transitions:** Enjoy smooth transition effects for background color and toggle switch.
